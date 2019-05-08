@@ -1,9 +1,10 @@
-# GameOfLife_Henrique
+# Conway's Game of Life using Unity
+    
+what is Conway's Game of Life ? 
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
   
-Aplicação desenvolvida por Henrique Lima
-  
-  Essa aplicação permite que o usuário tenha controle do número de colunas, linhas, tempo de geração de novas gerações de células e ainda se a atulização das gerações de células vai ocorrer de mode automático ou manual. 
+This application has created using unity and c# and allows the user to control the number of columns, rows, generation time of new generations of cells and even if the overlap of the generations of cells will occur automatically or manually.
 
- Controloes : 
-      Click do mouse esquerdo para fazer uma célula ficar viva ou morta 
-      Barra de espaço para atualizar a geração manualmente (só funciona se desabilitar a atualização automática no menu inicial)
+ Controls:
+      Left mouse click to make a cell stay alive or dead
+      Space bar to refresh the generation manually (only works if you disable the automatic update in the initial menu)
